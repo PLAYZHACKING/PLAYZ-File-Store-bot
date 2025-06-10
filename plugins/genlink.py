@@ -85,7 +85,7 @@ async def gen_link_s(bot, message):
 async def gen_link_batch(bot, message):
     username = (await bot.get_me()).username
     if " " not in message.text:
-        return await message.reply("Use correct format.\nExample /batch https://t.me/vj_botz/10 https://t.me/vj_botz/20.")
+        return await message.reply("Use correct format.\nExample /batch https://t.me/PLAYZ_HACKING/22 https://t.me/PLAYZ_HACKING/23.")
     links = message.text.strip().split(" ")
     if len(links) != 3:
         return await message.reply("Use correct format.\nExample /batch https://t.me/vj_botz/10 https://t.me/vj_botz/20.")
