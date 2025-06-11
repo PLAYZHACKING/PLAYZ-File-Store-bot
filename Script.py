@@ -38,8 +38,7 @@ If You Want To Remove Api Then Copy This And Send To Bot - `/api None`"""
 # Ask Doubt on telegram @KingVJ01
 
     CLONE_START_TXT = """<b>ʜᴇʟʟᴏ {}, ᴍʏ ɴᴀᴍᴇ {} 👋, ɪ ᴀᴍ ʟᴀᴛᴇꜱᴛ ᴀᴅᴠᴀɴᴄᴇᴅ ᴀɴᴅ ᴘᴏᴡᴇʀꜰᴜʟ ꜰɪʟᴇ ꜱᴛᴏʀᴇ ʙᴏᴛ + ᴄᴜꜱᴛᴏᴍ ᴜʀʟ ꜱʜᴏʀᴛɴᴇʀ ꜱᴜᴘᴘᴏʀᴛ ᴀᴜᴛᴏ ᴅᴇʟᴇᴛᴇ sᴜᴘᴘᴏʀᴛ ᴀɴᴅ ʙᴇꜱᴛ ᴜɪ ᴘᴇʀꜰᴏʀᴍᴀɴᴄᴇ 
-
-CLONED FROM - [【★𝗣ʟᴀʏ-ᴢ 𝗙ɪʟᴇ 𝗦ᴛᴏʀᴇ 𝗕ᴏᴛ★】](PLAYZ_FILE_STORE_BOT)
+CLONED FROM - [【★𝗣ʟᴀʏ-ᴢ 𝗙ɪʟᴇ 𝗦ᴛᴏʀᴇ 𝗕ᴏᴛ★】](https://t.me/PLAYZ_FILE_STORE_BOT)
 
 ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴛʜɪs ғᴇᴀᴛᴜʀᴇ ᴛʜᴇɴ ᴄʀᴇᴀᴛᴇ ʏᴏᴜʀ ᴏᴡɴ ᴄʟᴏɴᴇ ʙᴏᴛ ғʀᴏᴍ ᴍʏ <a href=https://t.me/PLAYZ_FILE_STORE_BOT>ᴘᴀʀᴇɴᴛ</a></b>"""
 
@@ -47,7 +46,7 @@ CLONED FROM - [【★𝗣ʟᴀʏ-ᴢ 𝗙ɪʟᴇ 𝗦ᴛᴏʀᴇ 𝗕ᴏᴛ★�
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
 # Ask Doubt on telegram @KingVJ01
 
-    ABOUT_TXT = """<b>ʜɪ ɪ ᴀᴍ 𝐏𝐋𝐀𝐘-𝐙 ᴘᴇʀᴍᴀɴᴇɴᴛ ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ ᴡɪᴛʜ ᴄʟᴏɴᴇ ғᴇᴀᴛᴜʀᴇ + ᴄᴜsᴛᴏᴍ ᴜʀʟ sʜᴏʀᴛɴᴇʀ ɪᴛ ᴍᴇᴀɴs ᴀɴʏ ᴜsᴇʀ ᴄᴀɴ sᴇᴛ ʜɪs ᴜʀʟ sʜᴏʀᴛɴᴇʀ ᴀɴᴅ + ᴀᴜᴛᴏ ᴅᴇʟᴇᴛᴇ.
+    ABOUT_TXT = """<b>𝐇𝐈 𝐈 𝐀𝐌 [【★𝗣ʟᴀʏ-ᴢ 𝗙ɪʟᴇ 𝗦ᴛᴏʀᴇ 𝗕ᴏᴛ★】](https://t.me/PLAYZ_FILE_STORE_BOT) 𝐖𝐈𝐓𝐇 𝐂𝐋𝐎𝐍𝐄 𝐅𝐄𝐀𝐓𝐔𝐑𝐄 + 𝐂𝐔𝐒𝐓𝐎𝐌 𝐔𝐑𝐋 𝐒𝐇𝐎𝐑𝐓𝐄𝐍𝐄𝐑 𝐈𝐓 𝐌𝐄𝐀𝐍𝐒 𝐀𝐍𝐘 𝐔𝐒𝐄𝐑 𝐂𝐀𝐍 𝐒𝐄𝐓 𝐇𝐈𝐒 𝐔𝐑𝐋 𝐒𝐇𝐎𝐑𝐓𝐍𝐄𝐑 𝐀𝐍𝐃 + 𝐀𝐔𝐓𝐎 𝐃𝐄𝐋𝐄𝐓𝐄.
 
 🤖 ᴍʏ ɴᴀᴍᴇ: {}
 
@@ -57,7 +56,7 @@ CLONED FROM - [【★𝗣ʟᴀʏ-ᴢ 𝗙ɪʟᴇ 𝗦ᴛᴏʀᴇ 𝗕ᴏᴛ★�
 
 🧑🏻‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href=https://t.me/PLAYZ_90>【⛥꯭ᴳᴼᴰ⛥꯭❖꯭𓂀⃝😈𝗣ʟᴀʏ-ᴢ𓂀⃝꯭❖⛥꯭】</a>
 
-👥 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ: <a href=https://t.me/Play_z_Hacking_Discussion>PLAY-Z 𝐏𝐋𝐀𝐘-𝐙 𝐒𝐮𝐩𝐩𝐨𝐫𝐭</a>
+👥 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ: <a href=https://t.me/Play_z_Hacking_Discussion>𝐏𝐋𝐀𝐘-𝐙 𝐒𝐮𝐩𝐩𝐨𝐫𝐭</a>
 
 📢 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ: <a href=https://t.me/+CK4EXZbq7DRkZmE1>𝐏𝐋𝐀𝐘-𝐙 𝐔𝐩𝐝𝐚𝐭𝐞</a></b>
 """
